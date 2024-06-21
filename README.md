@@ -1,6 +1,6 @@
 # Make 10
 
-Several weeks ago, I was in a train carriage that had the carriage number 1404. As I'm not one to follow [the rules](#the-rules) exactly, I came up with the solution `1 × 40 ÷ 4` - I often do this by covering the other two numbers with my hands and shooting a cheeky smile back at whoever has the misfortune of accompanying me that day. But I knew it was cheating, so I kept thinking about it, and came to the conclusion that there is no way allowed by the rules to solve that particular set of numbers, a conclusion supported by [Kang Wei-Chan's calculator](https://www.kangweichan.com/make-10). So I started wondering about other combinations of numbers that also have no solution without cheating, and how that changes as you introduce different rules.
+Several weeks ago, I was in a train carriage that had the carriage number 1404. As I'm not one to follow the rules exactly, I came up with the solution `1 × 40 ÷ 4` - I often do this by covering the other two numbers with my hands and shooting a cheeky smile back at whoever has the misfortune of accompanying me that day. But I knew it was cheating, so I kept thinking about it, and came to the conclusion that there is no way allowed by the rules to solve that particular set of numbers, a conclusion supported by [Kang Wei-Chan's calculator](https://www.kangweichan.com/make-10). So I started wondering about other combinations of numbers that also have no solution without cheating, and how that changes as you introduce different rules.
 
 ## The Rules
 
