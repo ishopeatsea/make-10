@@ -18,17 +18,17 @@ These are the house rules I learned from my friends in high school, which will d
 
 And my personal house rule, which people tend not to like:
 
-6. You may combine digits into one number, so long as they are already together and in order (e.g. `1404` → `1 × 40 ÷ 4 = 10`).
+7. You may combine digits into one number, so long as they are already together and in order (e.g. `1404` → `1 × 40 ÷ 4 = 10`).
 
 ## Other Rules
 
 What could be possible if we start introducing other rules as well?
 
-7. Why do the digits of a two-digit number need to be together and in order?
-8. What about three digits? Are they even useful?
-9. What if we allow digits to be decimals?
-10. If we're already using exponentials, why not logarithms?
-11. What about other functions? The gamma function, rounding/floor/ceiling, trig and inverse trig?
+8. Why do the digits of a two-digit number need to be together and in order?
+9. What about three digits? Are they even useful?
+10. What if we allow digits to be decimals?
+11. If we're already using exponentials, why not logarithms?
+12. What about other functions? The gamma function, rounding/floor/ceiling, trig and inverse trig?
 
 ## My Questions
 
