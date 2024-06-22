@@ -38,3 +38,5 @@ What could be possible if we start introducing other rules as well?
   - If so, what properties do they have that make them unsolvable?
 - What happens if you generalise the goal to "Make N"?
 - What happens if you generalise the problem to "Make N out of K digits"?
+
+## [Solver](https://soph.rip/make-10)
