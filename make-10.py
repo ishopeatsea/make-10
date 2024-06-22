@@ -38,23 +38,13 @@ def split_digits(input):
 funcs = funclist()
 number = input("Carriage number: ")
 digits = split_digits(number)
-#results = {}
 tens = []
 for a, b, c, d in permutations(digits, 4):
-	#results[a,b,c,d] = {}
 	for f, g, h in product(funcs, repeat=3):
 		try:
-			#print(a, w(f), b, w(g), c, w(h), d, "=", h(g(f(a,b),c),d))
-			#results[a,b,c,d][f,g,h] = h(g(f(a,b),c),d)
 			if h(g(f(a,b),c),d) == 10:
-				#tens.append((a,w(f),b,w(g),c,w(h),d))
 				tens.append(((a,b,c,d),(f,g,h)))
 		except ZeroDivisionError:
-			#print(a, w(f), b, w(g), c, w(h), d, "skipped - divide by zero")
+			#print("skipped - divide by zero")
 			pass
 printsoln(tens)
-	
-
-# for x in permutations(digits, 2):
-# 	for f in funcs: 
-# 		print(f"{f.__name__}{x} = {f(x[0], x[1])}")
